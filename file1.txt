@@ -1,2 +1,4 @@
 hello this is git prectical
 github prectical 
+git on my
+
